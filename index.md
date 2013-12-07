@@ -1,6 +1,6 @@
 ---
 
-layout: ribbon
+layout: bright
 
 style: |
 
@@ -40,7 +40,7 @@ style: |
 <!-- photo by John Carey, fiftyfootshadows.net -->
 
 
-## Shower Key Features
+## Shower Key Features !!
 
 1. Built on HTML, CSS and vanilla JavaScript
 2. All modern browsers are supported
